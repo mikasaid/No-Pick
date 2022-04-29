@@ -1,4 +1,3 @@
-![image-3042333__480](https://user-images.githubusercontent.com/58392246/165867225-e5d56ac0-62a0-45e3-a664-c8bb502a8f48.png)
 ## GitHub Docs <!-- omit in toc -->
 
 This repository contains the documentation website code and Markdown source files for [docs.github.com](https://docs.github.com).
